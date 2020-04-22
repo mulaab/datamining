@@ -1,59 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://mulaab.github.io/datamining/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://mulaab.github.io/datamining/memahami-data/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://mulaab.github.io/datamining/extensions/admonition/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://mulaab.github.io/datamining/specimen/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://mulaab.github.io/datamining/customization/</loc>
-     <lastmod>2020-04-20</lastmod>
+     <lastmod>2020-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://mulaab.github.io/datamining/compliance/</loc>
-     <lastmod>2020-04-20</lastmod>
-=======
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-     <loc>https://mulaab.github.io/datamining/</loc>
-     <lastmod>2019-09-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://mulaab.github.io/datamining/memahami-data/</loc>
-     <lastmod>2019-09-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://mulaab.github.io/datamining/extensions/admonition/</loc>
-     <lastmod>2019-09-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://mulaab.github.io/datamining/specimen/</loc>
-     <lastmod>2019-09-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://mulaab.github.io/datamining/customization/</loc>
-     <lastmod>2019-09-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://mulaab.github.io/datamining/compliance/</loc>
-     <lastmod>2019-09-04</lastmod>
->>>>>>> 8f16b7bcb47230e2baf4502d5c0641a5f70b4150
+     <lastmod>2020-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -1,1 +1,0 @@
-# Repositori Kuliah data mining
